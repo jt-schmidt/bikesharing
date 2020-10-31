@@ -46,7 +46,7 @@ Summary Text:
   --August Peak Hours:  High @ 5pm, Low @ 4am
   --Trip Duration based on Age:  Trending increase towards younger riders
   ```
-* Course 2 Dashobard (Story pg2)
+* [Course 2 Dashobard--Story pg2](https://public.tableau.com/views/CitiBike_Challenge_16039379492890/Course2?:language=en&:retry=yes&:display_count=y&publish=yes&:origin=viz_share_link)
   1. Course:  Top Starting Locations
   2. Course:  Top Ending Locations
   3. Course:  Bike Repair Heatmap
@@ -60,7 +60,7 @@ Example of Heat Map using Bike Repairs & Utilization.
 Repairs offers no significant insight.
 Distribution on Utilization is fairly uniform with random high spikes.
 ```  
-* Challenge 1 Dashboard (Story pg3)
+* [Challenge 1 Dashboard--Story pg3](https://public.tableau.com/views/CitiBike_Challenge_16039379492890/Challenge1?:language=en&:retry=yes&:display_count=y&publish=yes&:origin=viz_share_link)
   1. Challenge:  Checkout Times for Users
   2. Challenge:  Checkout TImes for Genders
 Summary Text:
@@ -68,7 +68,7 @@ Summary Text:
 Comparison of Checkout Time Duration of Overall versus Gender Breakdown shows how MALE riders skew majority of data trend.
 For both genders, peak trip duration is 4~6 hours with FEMALE being slightly higher than MALE.
 ```  
-* Challenge 2 Dashboard (Story pg4)
+* [Challenge 2 Dashboard--Story pg4](https://public.tableau.com/views/CitiBike_Challenge_16039379492890/Challenge2?:language=en&:retry=yes&:display_count=y&publish=yes&:origin=viz_share_link)
   1. Challenge:  Trips by Weekday per Hour Heatmap
   2. Challenge:  User Trips by Gender by Weekday Heatmap
 Summary Text:
@@ -85,7 +85,7 @@ SECOND
 Breakdown by Gender & User Type across days of the week.
 Most significant observation is large MALE distribution on Monday, Tuesday, Thursday, Friday for Subscriber types.
 ```  
-* Challenge 3 Dashboard (Story pg5)
+* [Challenge 3 Dashboard--Story pg5](https://public.tableau.com/views/CitiBike_Challenge_16039379492890/Challenge3?:language=en&:retry=yes&:display_count=y&publish=yes&:origin=viz_share_link)
   1. Challenge:  Trips by Gender (Weekday per Hour)
   
   Course Visualization Count = 9
