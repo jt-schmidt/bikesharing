@@ -35,7 +35,7 @@ Summary of Visualizations Used (Including Summary Text found in Tableau)
   3. Course:  Gender Breakdown
   4. Course:  August Peak Hours
   5. Course:  Average Trip Duration
-  ** Summary Text:
+Summary Text:
  ``` 
   Page 1 of Course Exercises for CitiBike Analysis Using Tableau.
   Source Data = https://www.citibikenyc.com/system-data
@@ -51,18 +51,55 @@ Summary of Visualizations Used (Including Summary Text found in Tableau)
   2. Course:  Top Ending Locations
   3. Course:  Bike Repair Heatmap
   4. Course:  Bike Utilization Heatmap
+Summary Text:
+ ``` 
+Map comparison of Start & End locations have no significant difference.  
+However, highest density is downtown Manhattan region.
+
+Example of Heat Map using Bike Repairs & Utilization.
+Repairs offers no significant insight.
+Distribution on Utilization is fairly uniform with random high spikes.
+```  
 * Challenge 1 Dashboard (Story pg3)
   1. Challenge:  Checkout Times for Users
   2. Challenge:  Checkout TImes for Genders
+Summary Text:
+ ``` 
+Comparison of Checkout Time Duration of Overall versus Gender Breakdown shows how MALE riders skew majority of data trend.
+For both genders, peak trip duration is 4~6 hours with FEMALE being slightly higher than MALE.
+```  
 * Challenge 2 Dashboard (Story pg4)
   1. Challenge:  Trips by Weekday per Hour Heatmap
   2. Challenge:  User Trips by Gender by Weekday Heatmap
+Summary Text:
+ ```   
+Heat Map of rider count.
+
+FIRST
+Overall breakdown according to time of day and day of week.
+This shows heaviest usage during peak commute hours of:
+6am ~ 9am & 4pm ~ 7pm during Monday through Friday.
+Weekend hours have even distribution throughout day from 10am ~ 5pm.
+
+SECOND
+Breakdown by Gender & User Type across days of the week.
+Most significant observation is large MALE distribution on Monday, Tuesday, Thursday, Friday for Subscriber types.
+```  
 * Challenge 3 Dashboard (Story pg5)
   1. Challenge:  Trips by Gender (Weekday per Hour)
   
   Course Visualization Count = 9
   Challenge Visualization Count = 5
+Summary Text:
+ ```   
+ Final heat map expands on the overall breakdown according to time of day and day of week.with inclusion of Gender display.
 
+Observation continues to highlight majority of MALE riders.  
+Of interest is that while FEMALE riders are fewer, their distribution of usage during weekdays and weekends is similar to MALE riders.
+
+6am ~ 9am & 4pm ~ 7pm during Monday through Friday.
+Weekend hours have even distribution throughout day from 10am ~ 5pm.
+```
 
 
 ## Summary
