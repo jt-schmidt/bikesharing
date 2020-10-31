@@ -28,13 +28,24 @@ Data will have type modification using Python in Jupyter Notebook
 
 [Link to JSchmidt Citibike Tableau Story](https://public.tableau.com/profile/jeff.schmidt#!/vizhome/CitiBike_Challenge_16039379492890/Challenge?publish=yes)
 
-Summary of Visualizations Used
+Summary of Visualizations Used (Including Summary Text found in Tableau)
 * Course 1 Dashboard (Story pg1)
   1. Course:  Number of Trips
   2. Course:  Customer Type
   3. Course:  Gender Breakdown
   4. Course:  August Peak Hours
   5. Course:  Average Trip Duration
+  ** Summary Text:
+  > 
+  Page 1 of Course Exercises for CitiBike Analysis Using Tableau.
+  Source Data = https://www.citibikenyc.com/system-data
+  Initial Charts:
+  --Total Number of Trips:  Raw count of records
+  --Breakdown by Customer Type:  Subscriber Favored
+  --Breakdown by Gender:  Male Favored & subset of indeterminant gender present
+  --August Peak Hours:  High @ 5pm, Low @ 4am
+  --Trip Duration based on Age:  Trending increase towards younger riders
+  >
 * Course 2 Dashobard (Story pg2)
   1. Course:  Top Starting Locations
   2. Course:  Top Ending Locations
@@ -51,7 +62,6 @@ Summary of Visualizations Used
   
   Course Visualization Count = 9
   Challenge Visualization Count = 5
-
 
 
 
