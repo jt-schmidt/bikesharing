@@ -36,7 +36,7 @@ Summary of Visualizations Used (Including Summary Text found in Tableau)
   4. Course:  August Peak Hours
   5. Course:  Average Trip Duration
   ** Summary Text:
-  > 
+ ``` 
   Page 1 of Course Exercises for CitiBike Analysis Using Tableau.
   Source Data = https://www.citibikenyc.com/system-data
   Initial Charts:
@@ -45,7 +45,7 @@ Summary of Visualizations Used (Including Summary Text found in Tableau)
   --Breakdown by Gender:  Male Favored & subset of indeterminant gender present
   --August Peak Hours:  High @ 5pm, Low @ 4am
   --Trip Duration based on Age:  Trending increase towards younger riders
-  >
+  ```
 * Course 2 Dashobard (Story pg2)
   1. Course:  Top Starting Locations
   2. Course:  Top Ending Locations
