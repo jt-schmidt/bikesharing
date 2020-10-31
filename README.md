@@ -28,16 +28,29 @@ Data will have type modification using Python in Jupyter Notebook
 
 [Link to JSchmidt Citibike Tableau Story](https://public.tableau.com/profile/jeff.schmidt#!/vizhome/CitiBike_Challenge_16039379492890/Challenge?publish=yes)
 
-Visualizations Used
-* est
+Summary of Visualizations Used
+* Course 1 Dashboard (Story pg1)
   1. Course:  Number of Trips
   2. Course:  Customer Type
--- test2
-  3. Course:  August Peak Hours
-  4. Course:  Average Trip Duration
-  5. Course:  
-  6. 
-  7. 
+  3. Course:  Gender Breakdown
+  4. Course:  August Peak Hours
+  5. Course:  Average Trip Duration
+* Course 2 Dashobard (Story pg2)
+  1. Course:  Top Starting Locations
+  2. Course:  Top Ending Locations
+  3. Course:  Bike Repair Heatmap
+  4. Course:  Bike Utilization Heatmap
+* Challenge 1 Dashboard (Story pg3)
+  1. Challenge:  Checkout Times for Users
+  2. Challenge:  Checkout TImes for Genders
+* Challenge 2 Dashboard (Story pg4)
+  1. Challenge:  Trips by Weekday per Hour Heatmap
+  2. Challenge:  User Trips by Gender by Weekday Heatmap
+* Challenge 3 Dashboard (Story pg5)
+  1. Challenge:  Trips by Gender (Weekday per Hour)
+  
+  Course Visualization Count = 9
+  Challenge Visualization Count = 5
 
 
 
