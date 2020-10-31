@@ -29,8 +29,7 @@ Data will have type modification using Python in Jupyter Notebook
 [Link to JSchmidt Citibike Tableau Story](https://public.tableau.com/profile/jeff.schmidt#!/vizhome/CitiBike_Challenge_16039379492890/Challenge?publish=yes)
 
 Summary of Visualizations Used -- Including Summary Text found in Tableau
-* [Course 1 Dashboard (Story pg1)]
-(https://public.tableau.com/views/CitiBike_Challenge_16039379492890/Course1?:language=en&:retry=yes&:display_count=y&publish=yes&:origin=viz_share_link)
+* [Course 1 Dashboard--Story pg1](https://public.tableau.com/views/CitiBike_Challenge_16039379492890/Course1?:language=en&:retry=yes&:display_count=y&publish=yes&:origin=viz_share_link)
   1. Course:  Number of Trips
   2. Course:  Customer Type
   3. Course:  Gender Breakdown
