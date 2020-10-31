@@ -19,13 +19,27 @@ There is a high-level summary of the results and two additional visualizations a
 
 ## Overview
 
+Purpose of this analysis is to perform a review of [Citi Bike Data](https://www.citibikenyc.com/system-data) for New York City using [Tableau](https://www.tableau.com/).
+Data will have type modification using Python in Jupyter Notebook
+
 ## Results
 
-https://public.tableau.com/profile/jeff.schmidt#!/vizhome/CitiBike_Challenge_16039379492890/Challenge?publish=yes
+[Link to Python Data Type Modification](https://github.com/jt-schmidt/bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb)
 
-[link to JSchmidt Citibike Story](https://public.tableau.com/profile/jeff.schmidt#!/vizhome/CitiBike_Challenge_16039379492890/Challenge?publish=yes)
+[Link to JSchmidt Citibike Tableau Story](https://public.tableau.com/profile/jeff.schmidt#!/vizhome/CitiBike_Challenge_16039379492890/Challenge?publish=yes)
 
-![link to JSchmidt Citibike Story](https://public.tableau.com/profile/jeff.schmidt#!/vizhome/CitiBike_Challenge_16039379492890/Challenge?publish=yes)
+Visualizations Used
+-- test
+  1. Course:  Number of Trips
+  2. Course:  Customer Type
+-- test2
+  3. Course:  August Peak Hours
+  4. Course:  Average Trip Duration
+  5. Course:  
+  6. 
+  7. 
+
+
 
 
 ## Summary
