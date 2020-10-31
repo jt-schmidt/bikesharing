@@ -29,7 +29,7 @@ Data will have type modification using Python in Jupyter Notebook
 [Link to JSchmidt Citibike Tableau Story](https://public.tableau.com/profile/jeff.schmidt#!/vizhome/CitiBike_Challenge_16039379492890/Challenge?publish=yes)
 
 Visualizations Used
--- test
+* est
   1. Course:  Number of Trips
   2. Course:  Customer Type
 -- test2
