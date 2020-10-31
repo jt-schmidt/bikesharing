@@ -101,5 +101,10 @@ Of interest is that while FEMALE riders are fewer, their distribution of usage d
 Weekend hours have even distribution throughout day from 10am ~ 5pm.
 ```
 
-
 ## Summary
+
+Overall this was a very interesting first use of Tableau to visualize data.  The level of customization and additional features are apparent especially in relation to Excel used during beginning of course.  Additionally, the learning curve is not quite as steep compared to the Python & Javascript visualizations performed in previous modules.
+
+If I were to explore this particualr data set further, I would consider a deeper dive into:
+1.  Gender & User Type differences with the majority data sets removed (MALE & SUBSCRIBER) to see if there is any further detail which can be obtained from minority user groups.
+2.  Consider application of time as a layer to the geographical mapping to visualize peak and trough usage over the course of the day and to check if there is any geographic relationship.
